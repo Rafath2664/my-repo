@@ -1,0 +1,2 @@
+# my-repo
+simple cicd
